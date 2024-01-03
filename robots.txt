@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://claudemircasa.github.io/blog-sample-test/sitemap.xml
